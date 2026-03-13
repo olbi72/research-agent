@@ -50,11 +50,6 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 You can also create .env based on .env.example.
 
-Important:
-
-never commit .env to GitHub
-
-keep API keys private
 Run
 
 Start the interactive agent:
